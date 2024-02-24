@@ -38,7 +38,7 @@ const ChatBotMain: React.FC = () => {
 
   return (
     <div>
-      <h2>Chat with AI</h2>
+      <h2>Ask me...</h2>
       <input
         type="text"
         value={state.question}
